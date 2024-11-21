@@ -7,7 +7,7 @@ const Logo = () => {
 			href='/'
 			className='relative w-fit text-balance font-extrabold text-zinc-900 text-xl uppercase'
 		>
-			Rabbi
+			Eco Market
 		</Link>
 	);
 };
