@@ -31,21 +31,21 @@ const lists = [
 		path: '/dashboard/orders',
 		href: '/dashboard/orders?page=1',
 	},
-	{
-		name: 'Products',
-		path: '/dashboard/products',
-		href: '/dashboard/products?page=1',
-	},
-	{
-		name: 'Colors',
-		path: '/dashboard/colors',
-		href: '/dashboard/colors?page=1',
-	},
-	{
-		name: 'Sizes',
-		path: '/dashboard/sizes',
-		href: '/dashboard/sizes?page=1',
-	},
+	// {
+	// 	name: 'Products',
+	// 	path: '/dashboard/products',
+	// 	href: '/dashboard/products?page=1',
+	// },
+	// {
+	// 	name: 'Colors',
+	// 	path: '/dashboard/colors',
+	// 	href: '/dashboard/colors?page=1',
+	// },
+	// {
+	// 	name: 'Sizes',
+	// 	path: '/dashboard/sizes',
+	// 	href: '/dashboard/sizes?page=1',
+	// },
 	{
 		name: 'Categories',
 		path: '/dashboard/categories',
