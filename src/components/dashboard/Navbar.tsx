@@ -26,11 +26,11 @@ const lists = [
 		path: '/dashboard',
 		href: '/dashboard',
 	},
-	{
-		name: 'Orders',
-		path: '/dashboard/orders',
-		href: '/dashboard/orders?page=1',
-	},
+	// {
+	// 	name: 'Orders',
+	// 	path: '/dashboard/orders',
+	// 	href: '/dashboard/orders?page=1',
+	// },
 	// {
 	// 	name: 'Products',
 	// 	path: '/dashboard/products',
