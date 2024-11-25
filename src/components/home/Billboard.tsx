@@ -8,9 +8,9 @@ const Billboard = ({ img, title }: { img: string; title: string }) => {
 				<Image
 					src={img}
 					alt='Explore your image'
-					width={500}
-					height={400}
-					className='w-full h-[400px] lg:h-[500px] object-cover rounded-xl'
+					width={1000}
+					height={1000}
+					className='w-full h-[400px] lg:h-[500px]  rounded-xl'
 					priority
 				/>
 

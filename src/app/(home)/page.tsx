@@ -41,8 +41,8 @@ const Page = async () => {
 	return (
 		<div className='max-w-7xl mx-auto px-6 2xl:px-0'>
 			<Billboard
-				title='Explore the Featured Collection!'
-				img='/featured-2.jpg'
+				title=''
+				img='/Cover Page.png'
 			/>
 
 			<div className='flex flex-col gap-5 mt-16 mb-8'>

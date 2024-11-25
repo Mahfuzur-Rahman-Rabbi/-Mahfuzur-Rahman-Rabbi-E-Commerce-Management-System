@@ -148,7 +148,7 @@ const Navbar = ({
 					<DropdownMenu>
 						<DropdownMenuTrigger>
 							<img
-								src={userIcon || '/preview.webp'}
+								src={userIcon || '/profile.png'}
 								alt='user icon'
 								className='w-9 h-9 rounded-full hover:ring-4 ring-gray-200 transition-all'
 							/>
