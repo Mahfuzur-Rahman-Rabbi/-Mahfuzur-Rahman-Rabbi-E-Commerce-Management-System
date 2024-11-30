@@ -26,11 +26,11 @@ const lists = [
 		path: '/dashboard',
 		href: '/dashboard',
 	},
-	// {
-	// 	name: 'Orders',
-	// 	path: '/dashboard/orders',
-	// 	href: '/dashboard/orders?page=1',
-	// },
+	{
+		name: 'Orders',
+		path: '/dashboard/orders',
+		href: '/dashboard/orders?page=1',
+	},
 	// {
 	// 	name: 'Products',
 	// 	path: '/dashboard/products',
@@ -46,11 +46,11 @@ const lists = [
 	// 	path: '/dashboard/sizes',
 	// 	href: '/dashboard/sizes?page=1',
 	// },
-	{
-		name: 'Categories',
-		path: '/dashboard/categories',
-		href: '/dashboard/categories?page=1',
-	},
+	// {
+	// 	name: 'Categories',
+	// 	path: '/dashboard/categories',
+	// 	href: '/dashboard/categories?page=1',
+	// },
 ];
 
 const NavListMobile = ({ pathname }: { pathname: string }) => {
